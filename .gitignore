@@ -1,0 +1,13 @@
+## dir /tmp
+<<<<<<< HEAD
+tmp
+=======
+/tmp/
+>>>>>>> d7e2409da0897efc7b73e3acf5e6e5ecf95699c7
+
+## trash files
+*_old
+*_backup
+Thumbs.db
+.DS_Store
+._.DS_Store
